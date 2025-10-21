@@ -1,1 +1,15 @@
 # pipoca doce e refrigerante é muito bom
+#bom dia pipoqueiro!
+print("Hello, World!")
+# print("Este é o meu primeiro script em Python.")
+# print("Estou aprendendo a programar em Python.")
+# print("Python é uma linguagem de programação divertida e poderosa.")
+# print("Espero criar muitos projetos interessantes com Python no futuro.")
+# print("Obrigado por acompanhar meu aprendizado em Python!")
+# print("Vamos codar mais em Python juntos!")
+# print("A prática leva à perfeição.")
+# print("Cada linha de código é um passo para me tornar um melhor programador.")print("Estou animado para ver onde minha jornada em Python me levará.")
+# print("Estou animado para ver onde minha jornada em Python me levará.")
+# print("Estou animado para ver onde minha jornada em Python me levará.")
+# print("Estou animado para ver onde minha jornada em Python me levará.")
+# print("Estou animado para ver onde minha jornada em Python me levará.")
